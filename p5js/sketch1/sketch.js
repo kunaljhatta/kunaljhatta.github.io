@@ -3,7 +3,7 @@
   }
   
   function draw() {
-    background(220, 0, 200);
+    background(400, 0, 300);
   
     line(0, 50, 400, 300);
     rectMode(CENTER);
