@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(500, 450);
+    createCanvas(displayWidth, displayHeight);
     }
     function draw() {
     let c = color(900, 400, 30);
